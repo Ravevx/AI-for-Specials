@@ -1,0 +1,11 @@
+openai-whisper
+mediapipe
+opencv-python
+gradio
+numpy
+requests
+torch
+tqdm
+sounddevice
+soundfile
+scipy
