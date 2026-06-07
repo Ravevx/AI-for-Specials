@@ -1,0 +1,1 @@
+An accessibility AI system with two modules: a Vision Transformer-based scene understanding pipeline that narrates surroundings for visually impaired users in real-time, and an audio-to-sign-language translation system that converts spoken audio into sign language gestures for deaf and hard-of-hearing individuals.
